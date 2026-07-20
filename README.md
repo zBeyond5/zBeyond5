@@ -37,10 +37,10 @@
 
 <div align="center">
   <a href="https://github.com/zBeyond5/Bey-Hub">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zBeyond5&repo=Bey-Hub&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Projeto 1" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=zBeyond5&repo=Bey-Hub&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Projeto 1" />
   </a>
   <a href="https://github.com/zBeyond5/eng">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zBeyond5&repo=eng&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Projeto 2" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=zBeyond5&repo=eng&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Projeto 2" />
   </a>
 </div>
 
